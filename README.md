@@ -1,7 +1,7 @@
 ## Hi,I'm Dhirendra ✨<br>
-🧠Computer Science student at Indira College of commerce and scienceb<br>
+🧠Computer Science student at Indira College of commerce and science<br>
 🖊️I create a web application using python<br>
-🖥️I am competative and alwys welcomin to learn new things  
+🖥️I am competative and always welcomming to learn new things  
 
 
 ## 🌐 Socials:
